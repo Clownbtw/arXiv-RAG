@@ -1,0 +1,13 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch
+sentence-transformers>=3.0
+transformers
+chromadb
+huggingface_hub
+pandas
+pyarrow
+numpy<2.4
+openai
+python-dotenv
+aiogram>=3
+streamlit

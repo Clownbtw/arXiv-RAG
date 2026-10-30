@@ -1,0 +1,9 @@
+.env
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+chroma_db/
+*.npy
+*.csv
+*.parquet
+!eval/results.csv
